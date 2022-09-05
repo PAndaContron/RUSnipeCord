@@ -21,7 +21,7 @@ pub struct Config {
     /// `"0"` for winter, `"1"` for spring, `"7"` for summer, `"9"` for fall
     pub term: String,
     /// The campus of the courses we're sniping;
-    /// `"NB"` for New Brunswick, `"NK"` for Newark, `"CM"` for Camedn
+    /// `"NB"` for New Brunswick, `"NK"` for Newark, `"CM"` for Camden
     pub campus: String,
     /// The level of the courses we're sniping;
     /// `"U"` for undergrad and `"G"` for graduate
