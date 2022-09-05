@@ -1,0 +1,12 @@
+{
+    "webhook": "WEBHOOK URL HERE",
+    "mention": "<@999999999999999999>",
+    "year": "2022",
+    "term": "9",
+    "campus": "NB",
+    "level": "U",
+    "indexes": [
+        "09377",
+        "09361"
+    ]
+}
